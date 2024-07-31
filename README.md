@@ -1,9 +1,3 @@
 # SwissTronik-Contract-Deployment
 
-
-# heyyyyyy 
-
-
-yes me!
-
-new cool one man!
+This is just a basic contract deployment using the SwissTronik Layer1.
